@@ -3,6 +3,9 @@
 ## Objective
 Build a web app to search for music artists and browse their releases
 
+I took inspiration from this [blog post:](https://dev.to/myogeshchavan97/how-to-create-a-spotify-music-search-app-in-react-328m)
+
+
 ## User Experience 
 User opens a URL in their browser and sees a single text input
 User submits a query and sees a list of matching artist names as search results
@@ -23,7 +26,7 @@ This project was start with [Create React App](https://github.com/facebook/creat
 Also utilizes the [Spotify Web Api](https://developer.spotify.com/documentation/web-api/)
 And [React Bootstrap](https://react-bootstrap.github.io/)
 
-## Available Scripts
+## Scripts
 
 In the project directory, you can run:
 
