@@ -13,14 +13,15 @@ User clicks on an artist search result and sees a list of release titles
 ## Quick Start
 To run this project, 
 
-open `.env` file and add your client_id from spotify dashboard and then open terminal and execute the following commands in sequence
 
 ```js
 1. yarn install
 2. yarn start
 ```
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was start with [Create React App](https://github.com/facebook/create-react-app).
+Also utilizes the [Spotify Web Api](https://developer.spotify.com/documentation/web-api/)
+And [React Bootstrap](https://react-bootstrap.github.io/)
 
 ## Available Scripts
 
